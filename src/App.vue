@@ -2,7 +2,7 @@
   <div class="container">
     <div class="shadow"></div>
     <div class="squish">
-      <h1 data-3d-text>A</h1>
+      <h1 data-3d-text>王</h1>
     </div>
     <div class="particles">
       <div class="floor"></div>
